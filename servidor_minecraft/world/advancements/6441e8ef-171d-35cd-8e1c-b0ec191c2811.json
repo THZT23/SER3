@@ -103,6 +103,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-08-17 22:21:03 +0000",
       "minecraft:slime": "2025-08-17 20:03:13 +0000"
     },
     "done": false
@@ -200,6 +201,74 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-08-17 22:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-17 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-17 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-17 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/heart_transplanter": {
+    "criteria": {
+      "place_pale_oak_log": "2025-08-17 22:22:32 +0000",
+      "place_creaking_heart_dormant": "2025-08-17 22:22:32 +0000",
+      "place_creaking_heart_awake": "2025-08-17 22:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-17 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-08-17 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-17 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-17 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-08-17 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/crafters_crafting_crafters": {
+    "criteria": {
+      "crafter_crafted_crafter": "2025-08-17 22:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2025-08-17 22:21:04 +0000"
     },
     "done": true
   },

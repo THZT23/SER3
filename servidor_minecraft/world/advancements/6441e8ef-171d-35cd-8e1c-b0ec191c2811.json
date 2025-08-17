@@ -204,6 +204,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/crafters_crafting_crafters": {
+    "criteria": {
+      "crafter_crafted_crafter": "2025-08-17 22:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-17 22:21:04 +0000"
@@ -219,14 +225,6 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-08-17 22:21:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/heart_transplanter": {
-    "criteria": {
-      "place_pale_oak_log": "2025-08-17 22:22:32 +0000",
-      "place_creaking_heart_dormant": "2025-08-17 22:22:32 +0000",
-      "place_creaking_heart_awake": "2025-08-17 22:22:32 +0000"
     },
     "done": true
   },
@@ -260,15 +258,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/crafters_crafting_crafters": {
-    "criteria": {
-      "crafter_crafted_crafter": "2025-08-17 22:20:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_string": "2025-08-17 22:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/heart_transplanter": {
+    "criteria": {
+      "place_pale_oak_log": "2025-08-17 22:22:32 +0000",
+      "place_creaking_heart_dormant": "2025-08-17 22:22:32 +0000",
+      "place_creaking_heart_awake": "2025-08-17 22:22:32 +0000"
     },
     "done": true
   },

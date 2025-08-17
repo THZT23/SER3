@@ -431,3 +431,36 @@ Reason: Banned by an operator.
 [22:27:23] [Server thread/INFO]: GiovanyBy14 joined the game
 [22:27:34] [Server thread/INFO]: nicolasxpazx was slain by thiagooo
 [22:27:39] [Server thread/INFO]: thiagooo was slain by GiovanyBy14
+[22:27:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-125, y=-44, z=-61}
+[22:27:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-125, y=-44, z=-61}
+[22:27:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-124, y=-44, z=-62}
+[22:27:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-126, y=-42, z=-63}
+[22:27:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-123, y=-43, z=-62}
+[22:27:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-123, y=-43, z=-62}
+[22:27:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-124, y=-43, z=-63}
+[22:27:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-126, y=-42, z=-63}
+[22:27:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-123, y=-42, z=-64}
+[22:27:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-126, y=-42, z=-63}
+[22:27:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-126, y=-42, z=-64}
+[22:27:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-129, y=-44, z=-64}
+[22:28:00] [Server thread/INFO]: thiagooo was slain by GiovanyBy14
+[22:28:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-133, y=-44, z=-67}
+[22:28:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-132, y=-44, z=-66}
+[22:28:04] [Server thread/INFO]: nicolasxpazx was slain by thiagooo
+[22:28:07] [Server thread/INFO]: GiovanyBy14 was slain by thiagooo
+[22:28:29] [Server thread/INFO]: [Leaa: Gave 0 experience points to GiovanyBy14]
+[22:28:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-133, y=-44, z=-61}
+[22:28:42] [Server thread/INFO]: [Leaa: Made thiagooo a server operator]
+[22:28:48] [Server thread/INFO]: thiagooo was slain by Slime
+[22:28:48] [Server thread/INFO]: [Leaa: Made GiovanyBy14 a server operator]
+[22:29:03] [Server thread/INFO]: [Leaa: Made nicolasxpazx a server operator]
+[22:30:13] [Server thread/INFO]: [Leaa: Set own game mode to Survival Mode]
+[22:30:42] [Server thread/INFO]: [nicolasxpazx: Set the time to 1000]
+[22:30:56] [Server thread/INFO]: thiagooo was slain by nicolasxpazx
+[22:31:30] [Server thread/INFO]: Leaa was slain by nicolasxpazx
+[22:32:57] [Server thread/INFO]: GiovanyBy14 was slain by Leaa
+[22:36:08] [Server thread/INFO]: Leaa was slain by GiovanyBy14
+[22:36:27] [Server thread/INFO]: GiovanyBy14 was slain by thiagooo
+[22:37:15] [Server thread/INFO]: Leaa was slain by thiagooo
+[22:37:16] [Server thread/INFO]: GiovanyBy14 was slain by thiagooo
+[22:37:27] [Server thread/INFO]: nicolasxpazx was slain by thiagooo
